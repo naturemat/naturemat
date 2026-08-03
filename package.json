@@ -1,0 +1,23 @@
+{
+  "name": "naturemat",
+  "version": "1.0.0",
+  "description": "README dinámico para perfil de GitHub",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["github", "readme", "profile", "mustache"],
+  "author": "Mateo Cobo",
+  "license": "ISC",
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "^11.20.0",
+      "onFail": "download"
+    }
+  },
+  "dependencies": {
+    "mustache": "^4.2.0"
+  }
+}
