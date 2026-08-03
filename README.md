@@ -4,64 +4,107 @@
 
 ---
 
-## Education
+## 🎓 Education
 
-🎓 Systems Engineering student at Universidad Central del Ecuador  
-2022 - 2026
-
----
-
-## Achievements
-
-- IEEEXtreme programming competition participant
+Systems Engineering student at Universidad Central del Ecuador  
+2022 - Present
 
 ---
 
-## Tech Stack
+## 🏆 Achievements
+
+- 🏅 **IEEEXtreme – International Programming Competition**  
+  Top 7 Nacional – Ecuador, 2025
+
+<details>
+<summary>📄 View Certificate</summary>
+<br>
+  <p align="center">
+    <a href="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;naturemat&#x2F;naturemat&#x2F;main&#x2F;assets&#x2F;ieeextreme-participation-certificate.pdf" target="_blank">
+      <img src="https:&#x2F;&#x2F;raw.githubusercontent.com&#x2F;naturemat&#x2F;naturemat&#x2F;main&#x2F;assets&#x2F;ieeextreme-participation-certificate.pdf" alt="IEEEXtreme Certificate" width="600" />
+    </a>
+  </p>
+  <p align="center">
+    <i>Click on the image to view full certificate</i>
+  </p>
+</details>
+
+---
+
+## 🛠️ Tech Stack
 
 ### Frontend
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white" />
   <img alt="TanStack" src="https://img.shields.io/badge/-TanStack-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
-### Backend & API
+### Backend
+
 <p>
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+</p>
+
+### AI & Machine Learning
+
+<p>
+  <img alt="Hugging Face" src="https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="RAG" src="https://img.shields.io/badge/-RAG-008080?style=flat-square&logo=ai&logoColor=white" />
+</p>
+
+### Databases
+
+<p>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-### DevOps & Infrastructure
+### DevOps & Cloud
+
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
   <img alt="Elastic Stack" src="https://img.shields.io/badge/-Elastic_Stack-005571?style=flat-square&logo=elastic-stack&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
+  <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
 </p>
 
 ### Mobile & Cross-Platform
+
 <p>
   <img alt="Capacitor" src="https://img.shields.io/badge/-Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" />
 </p>
 
-### AI & RAG (Retrieval-Augmented Generation)
+### Automation & Scraping
+
 <p>
-  <img alt="AI" src="https://img.shields.io/badge/-AI_&_RAG-FF6F00?style=flat-square&logo=ai&logoColor=white" />
+  <img alt="Playwright" src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img alt="Selenium" src="https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
 </p>
 
-### Tools & Package Managers
+### Tools
+
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="pnpm" src="https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" />
@@ -72,15 +115,7 @@
 
 ---
 
-## Languages
-
-- Spanish - Native
-- English - Intermediate
-- Chinese Mandarin - Beginner
-
----
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naturemat&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -90,7 +125,35 @@
 
 ---
 
-## Where to find me
+## 🚀 Featured Projects
+
+### [MentoraPredict](https://github.com/naturemat/MentoraPredict)
+
+AI-powered educational platform for dropout risk prediction and personalized recommendations. Academic project for Web Programming course. Built with NestJS microservices, FastAPI AI service, React.
+
+### [ConectaEmpleo](https://github.com/naturemat/ConectaEmpleo)
+
+Spring Boot web platform connecting employers and job seekers to reduce barriers to employment access (SDG 1). Includes job postings, applications, training, contracts, ratings, and reports.
+
+### [m3motors](https://github.com/naturemat/m3motors)
+
+Smart management and predictive maintenance platform for mechanical workshops.
+
+### [Scraper_Instagram](https://github.com/naturemat/Scraper_Instagram)
+
+Python-based Instagram data scraping tool using Selenium/Playwright.
+
+---
+
+## 📝 Languages
+
+- 🇪🇸 Spanish - Native
+- 🇬🇧 English - Intermediate
+- 🇨🇳 Chinese Mandarin - Beginner
+
+---
+
+## 🌐 Where to find me
 
 <p>
   <a href="https://github.com/naturemat" target="_blank">
@@ -105,7 +168,7 @@
 
 <p align="center">
   This README file is generated every 3 hours</br>
-  Last refresh: lunes, 3 de agosto de 2026, 12:27 p. m. ECT<br />
+  Last refresh: lunes, 3 de agosto de 2026, 3:14 p. m. ECT<br />
   <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
 </p>
 <p align="center">

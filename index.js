@@ -6,9 +6,8 @@ let DATA = {
   name: 'Mateo',
   title: 'Fullstack Developer',
   linkedin_url: 'https://www.linkedin.com/in/mateo-cobo-7847683b1/',
-  update_interval: '3 hours',
-  year_start: '2022',
-  year_end: '2026',
+  ieeextreme_certificate: 'https://raw.githubusercontent.com/naturemat/naturemat/main/assets/ieeextreme-participation-certificate.pdf',
+  update_interval: '5 days',
   date: new Date().toLocaleDateString('es-EC', {
     weekday: 'long',
     year: 'numeric',
