@@ -4,10 +4,12 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 
 let DATA = {
   name: 'Mateo',
-  title: 'Fullstack developer',
+  title: 'Fullstack Developer',
   linkedin_url: 'https://www.linkedin.com/in/mateo-cobo-7847683b1/',
   update_interval: '3 hours',
-  date: new Date().toLocaleDateString('en-GB', {
+  year_start: '2022',
+  year_end: '2026',
+  date: new Date().toLocaleDateString('es-EC', {
     weekday: 'long',
     year: 'numeric',
     month: 'long',
@@ -15,7 +17,7 @@ let DATA = {
     hour: 'numeric',
     minute: 'numeric',
     timeZoneName: 'short',
-    timeZone: 'America/Guayaquil', // Cambia a tu zona horaria
+    timeZone: 'America/Guayaquil',
   }),
 };
 
