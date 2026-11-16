@@ -168,7 +168,7 @@ Python-based Instagram data scraping tool using Selenium/Playwright.
 
 <p align="center">
   This README file is generated every 5 days</br>
-  Last refresh: martes, 10 de noviembre de 2026, 11:19 p. m. ECT<br />
+  Last refresh: domingo, 15 de noviembre de 2026, 11:25 p. m. ECT<br />
   <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a>
 </p>
 <p align="center">
